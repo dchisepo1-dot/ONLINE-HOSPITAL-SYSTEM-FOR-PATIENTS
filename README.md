@@ -1,4 +1,3 @@
-# HACKATHON_PROJECTS
 #SMART ONLINE HOSPITAL SYSTEM FOR PATIENTS
 This system helps Patients to access the Hospital system online, where they can book, track and ready in advance
  System
