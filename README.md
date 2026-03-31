@@ -11,9 +11,9 @@ Reduce physical queues
 Improve patient experience
 Provide real-time queue updates
 👥 Team Members
-Divine – Project Planner
-Evidence Frontend Developer
-Amanda  JavaScript / Logic
+Divine,
+Evidence,
+Amanda
 ⚙️ Features
 Patient Registration
 Live Queue Display
