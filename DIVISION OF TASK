@@ -1,0 +1,91 @@
+👥 Task Division – SMART Hospital System
+🔹 1. Divine (Project Lead + Logic Developer)
+
+Role: Coordination + Core System Logic
+
+Responsibilities:
+Design overall system flow
+Implement queue management logic
+Write JavaScript for:
+Queue number assignment
+Status updates (Waiting → In Progress → Done)
+Estimated waiting time calculation
+Manage GitHub repository:
+Create branches
+Merge contributions
+Help others if they get stuck
+
+👉 You are basically the brain of the system
+
+🔹 2. Evidence (Frontend Developer)
+
+Role: UI/UX Design
+
+Responsibilities:
+Create Home Page
+Design Registration Form UI
+Design Queue Dashboard UI
+Use:
+HTML (structure)
+CSS (styling, layout, responsiveness)
+Focus:
+Clean layout
+Easy navigation
+Mobile-friendly design
+
+👉 You make the system look professional and user-friendly
+
+🔹 3. Amanda (Data Handling + Integration)
+
+Role: Data & Feature Integration
+
+Responsibilities:
+Handle Local Storage
+Save patient data
+Retrieve and display queue
+Connect UI with logic:
+Form → JavaScript → Display
+Implement:
+Disease-based queue system
+Live queue updates on dashboard
+
+👉 You make everything work together smoothly
+
+🔄 Team Collaboration Workflow
+Step 1: Divide Files
+
+Each member works on separate files:
+
+Divine → script.js
+Evidence → index.html, style.css
+Amanda → storage.js / integration inside script.js
+Step 2: GitHub Workflow
+Each member creates a branch:
+git checkout -b feature-name
+Work on your part
+Push changes:
+git push origin feature-name
+Create Pull Request → Divine reviews → Merge
+📅 Suggested Timeline (Important!)
+Day 1:
+UI design (Evidence)
+Basic HTML structure
+Day 2:
+Queue logic (Divine)
+Local storage setup (Amanda)
+Day 3:
+Connect everything together
+Testing + bug fixing
+⚡ Bonus (If You Finish Early)
+Add login system
+Add doctor panel
+Improve UI animations
+🔥 Pro Tip (Very Important)
+
+Don’t all code the same file at once ❌
+→ It will cause errors and confusion
+
+Instead:
+
+Work in parts
+Then combine carefully
